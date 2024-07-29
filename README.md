@@ -83,10 +83,6 @@ If you want to contribute to this project, follow these steps:
 
 You can customize the program by modifying the `main.py` file. For example, you can add error handling for non-integer inputs or create a graphical user interface (GUI) for the application.
 
-## Styling
-
-This is a command-line interface (CLI) application, so there are no styling requirements.
-
 ## Scripting
 
 The main script is `main.py`, which contains the logic for calculating the factorial of a non-negative integer.
